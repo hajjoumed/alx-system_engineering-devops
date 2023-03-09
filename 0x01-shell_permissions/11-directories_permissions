@@ -1,2 +1,2 @@
 #!/bin/bash
-find . -type d -exec chnod ugo+x {} +
+chmod -R +x .
